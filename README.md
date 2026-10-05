@@ -201,11 +201,6 @@ app.run(debug=True)
  
 ## Using Git
  
-Initialize the repository:
- 
-```bash
-git init
-```
  
 Add project files:
  
@@ -219,17 +214,6 @@ Create the commit:
 git commit -m "Implement event listing functionality in Flask"
 ```
  
-Rename the default branch:
- 
-```bash
-git branch -M main
-```
- 
-Add the remote repository:
- 
-```bash
-git remote add origin https://github.com/uoradea-cti/se2-2026-lab01-Implementing-event-display-functionality-using-Flask-and-Git.git
-```
  
 Push the project to GitHub:
  
