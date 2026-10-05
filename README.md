@@ -66,7 +66,7 @@ git --version
 ### 1. Clone the Repository
  
 ```bash
-git clone https://github.com/<username>/campus-events.git
+git clone https://github.com/uoradea-cti/se2-2026-lab01-Implementing-event-display-functionality-using-Flask-and-Git.git
 ```
  
 Navigate to the project directory:
@@ -228,7 +228,7 @@ git branch -M main
 Add the remote repository:
  
 ```bash
-git remote add origin https://github.com/<username>/campus-events.git
+git remote add origin https://github.com/uoradea-cti/se2-2026-lab01-Implementing-event-display-functionality-using-Flask-and-Git.git
 ```
  
 Push the project to GitHub:
